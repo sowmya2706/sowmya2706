@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**sowmya2706/sowmya2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sowmya 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech IT Student  
+💻 Aspiring Frontend Developer  
+🚀 Currently learning spring boot & Backend to become a Full stack developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Reactjs
+- Angular & Typescript
+- Redux
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- Responsive Landing Page
+- To-Do App
+- Weather App (API based)
+- Mini JavaScript Projects
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sowmya-ramachandran-481b201b6/
