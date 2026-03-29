@@ -19,9 +19,9 @@
 ---
 
 ## 📌 Projects
-- Responsive Landing Page
-- To-Do App
-- Weather App (API based)
+- Slot Booking
+- Client Managemnet Application
+- Retail Management System
 - Mini JavaScript Projects
 
 ---
